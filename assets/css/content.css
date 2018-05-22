@@ -1,0 +1,106 @@
+
+
+.lables_passreg_text{
+	font-size: 0.7em;
+	margin-top: 3%;
+	margin-left: 2%;
+}
+
+
+
+
+
+.posts .posts_content{
+	font-size: 0.8em;
+}
+
+.info_film_page{
+	margin-top: 2%;
+	margin-bottom: 4%;
+
+}
+.info_film_page .label{
+	font-size: 1.2em;
+}
+
+.info_film_page .value{
+	font-size: 1em;
+	color: #49945a;
+	margin-right: 3%;
+}
+
+.description_film{
+	margin-bottom: 15%;
+	margin-right: 5%;
+}
+
+.description_film img{
+	widows: 140px;
+	height: 230px;
+	float: left;
+	margin-right: 2%;
+	border-radius: 5px;
+	border: solid 5px #dad7d5;
+}
+
+.description_film img:hover{
+	opacity: .5;
+}
+
+.reviews{
+	margin-bottom: 4%;
+	font-size: 0.9em;
+}
+
+.reviews .review_name{
+	background-color: #009999;
+	color: white;
+	padding: 1%;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+.reviews .review_text{
+	padding: 2%;
+}
+
+
+
+.info_book {
+	margin-bottom: 5%;
+	background-color: #f9f9f9;
+	padding: 5%;
+	height: 270px;
+}
+
+.info_book img {
+	float: left;
+	margin-right: 2%;
+	border-radius: 5px;
+	border: solid 5px #dad7d5;
+	width: 25%;
+}
+
+
+table{
+	width: 100%;
+	border: solid 1px #f4f4f4;
+}
+
+td{
+	padding: 2%;
+	border: solid 1px #f4f4f4;
+}
+
+td img{
+	width: 60px;
+	vertical-align: middle;
+}
+
+.center{
+	text-align: center;
+}
+
+.rating{
+	font-weight: bold;
+}
